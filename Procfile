@@ -1,1 +1,1 @@
-web: gunicorn pet_pals.app:app node index.js
+web: gunicorn pet_pals.app:app
