@@ -1,3 +1,5 @@
+alert(MARCO);
+
 function buildPlot() {
     /* data route */
   var url = "/api/pals";
