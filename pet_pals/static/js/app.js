@@ -1,4 +1,4 @@
-alert(MARCO);
+alert(process.env.MARCO);
 
 function buildPlot() {
     /* data route */
